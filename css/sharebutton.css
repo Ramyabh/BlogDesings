@@ -1,0 +1,12 @@
+#share-this{
+    overflow:hidden;
+    margin:20px auto 0 auto;
+    line-height:1.4em;
+    display:table;
+    text-align:center;
+}
+#share-this h4{position:relative;overflow:hidden;margin:0 0 10px;letter-spacing:1px;font-size:120%;font-weight:700;padding:0 8px;text-align:center;transition:all 0.5s ease-out}
+#share-this h4:before,#share-this h4:after{position:absolute;top:51%;overflow:hidden;width:50%;height:1px;content:&#39;\a0&#39;;background-color:#ddd}#share-this h4:before{margin-left:-50%;text-align:right;}#share-this span{position:relative;display:inline-block;padding:0 10px;margin:auto;}
+#share-this a{float:left;display:block;color:#fff;padding:10px 14px;text-align:center;margin:0 3px 3px;font-size:12px}#share-this a.this-fb{background:#395796;}#share-this a.this-tw{background:#4cb0ea;}#share-this a.this-gp{background:#de3425;text-align:center;overflow:hidden}#share-this a.this-gp i{text-align:center;padding:0}#share-this a.this-fb:hover,#share-this a.this-tw:hover,#share-this a.this-gp:hover {opacity:.9}#share-this i{display:inline-block;margin:-3px 10px 0 0}
+.this-fb i,.this-tw i,.this-gp i{background:url(http://1.bp.blogspot.com/-P3DOmXqEiCM/VkOW8tkzxGI/AAAAAAAAMpE/cBX9b0xTPU8/s1600/sosmed2.png) no-repeat;width:22px; height:18px; display:inline-block;vertical-align:text-top;margin-top:-6px;text-align:center}
+.this-fb i{background-position:0 -100px;margin-top:-4px}.this-tw i{background-position:0 -150px}.this-gp i{background-position:0 -200px}.notpay {font-size:13px;line-height: 22px;border:2px #df3f2a solid;padding:3px 15px;text-align:center;margin:0 0 25px;}.pay {font-size:13px;line-height: 22px;border:2px #5973b0 solid;padding:3px 15px;text-align:center;margin:0 0 25px;}
