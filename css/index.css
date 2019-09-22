@@ -2,7 +2,7 @@
   background-color: #F3F6F6 ;
   padding: 7px ;
   border: 1px solid #F3F6F6 ;
-  margin:auto auto;
+  /* margin:auto auto; */
   display:  inline-flex;
   position: relative;
   width:100%
@@ -14,12 +14,12 @@
   margin: auto auto;
 }
 
-#icon{
+/* #icon{
   width: 3%; 
   display:  inline-block;
   margin: auto auto;
 
-}
+} */
 
 #login {
   width:10%;
@@ -47,9 +47,10 @@
 #title_name{
   text-align: center;
   vertical-align: middle;
-  line-height: 10px; 
   font-size: 15px; 
   font-style: italic;
+  font-weight: bold;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .blog_container_grid{
